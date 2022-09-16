@@ -6,7 +6,7 @@
 
 Projeto construiído no evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://)
+[🔗 Clique aqui para acessar](https://kennylima.github.io/NLW-eSports/)
 
 ## 🛠 Tecnologias 
 - HTML
